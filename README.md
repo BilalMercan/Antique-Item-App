@@ -30,7 +30,7 @@ Uygulamada kullanılan özellikler;
 
 ##### Sayfa Dizaynı
 - RecyclerView
-- App bar içerisinde menu layout sayfası oluşturularak içerisinde item ekleniyor ve activity geçileri sağlanıyor.
+- App bar içerisinde menu layout sayfası oluşturularak içerisinde item ekleniyor ve activity geçişleri sağlanıyor.
 
 
 
