@@ -28,7 +28,7 @@ Uygulamada kullanılan özellikler;
 - Snackbar
 - Bitmap 
 
-##### Sayfa Düzeni
+##### Sayfa Dizaynı
 - RecyclerView
 - App bar içerisinde menu layout sayfası oluşturularak içerisinde item ekleniyor ve activity geçileri sağlanıyor.
 
